@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MetroLayout">
+        <attr name="metro_horizon_divider" format="string"></attr>
+        <attr name="metro_vertical_divider" format="string"></attr>
+        <attr name="metro_desgin_width" format="string"></attr>
+        <attr name="metro_design_height" format="string"></attr>
+
+    </declare-styleable>
+    <declare-styleable name="MetroLayout_Layout">
+        <attr name="layout_metro_width" format="string"></attr>
+        <attr name="layout_metro_height" format="string"></attr>
+    </declare-styleable>
+
+</resources>

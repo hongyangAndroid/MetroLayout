@@ -1,0 +1,103 @@
+<com.zhy.view.MetroLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:metro_horizon_divider="8/768"
+    app:metro_vertical_divider="8/1280"
+    tools:context=".MainActivity">
+
+
+    <TextView android:layout_width="0dp"
+              android:layout_height="0dp"
+              android:background="#44ff0000"
+              android:gravity="center"
+              android:text="1"
+              app:layout_metro_height="328/1280"
+              app:layout_metro_width="380/768"
+        />
+
+    <TextView android:layout_width="0dp"
+              android:layout_height="0dp"
+              android:background="#44ff0000"
+              android:gravity="center"
+              android:text="2"
+              app:layout_metro_height="160/1280"
+              app:layout_metro_width="380/768"
+        />
+
+    <TextView android:layout_width="0dp"
+              android:layout_height="0dp"
+              android:background="#44ff0000"
+              android:gravity="center"
+              android:text="3"
+              app:layout_metro_height="160/1280"
+              app:layout_metro_width="380/768"
+        />
+
+
+    <TextView android:layout_width="0dp"
+              android:layout_height="0dp"
+              android:background="#44ff0000"
+              android:gravity="center"
+              android:text="4"
+              app:layout_metro_height="160/1280"
+              app:layout_metro_width="186/768"
+        />
+    <TextView android:layout_width="0dp"
+              android:layout_height="0dp"
+              android:background="#44ff0000"
+              android:gravity="center"
+              android:text="5"
+              app:layout_metro_height="160/1280"
+              app:layout_metro_width="186/768"
+        />
+
+    <TextView android:layout_width="0dp"
+              android:layout_height="0dp"
+              android:background="#44ff0000"
+              android:gravity="center"
+              android:text="6"
+              app:layout_metro_height="328/1280"
+              app:layout_metro_width="124/768"
+        />
+
+    <TextView android:layout_width="0dp"
+              android:layout_height="0dp"
+              android:background="#44ff0000"
+              android:gravity="center"
+              android:text="7"
+              app:layout_metro_height="104/1280"
+              app:layout_metro_width="248/768"
+        />
+
+    <TextView android:layout_width="0dp"
+              android:layout_height="0dp"
+              android:background="#44ff0000"
+              android:gravity="center"
+              android:text="8"
+              app:layout_metro_height="104/1280"
+              app:layout_metro_width="248/768"
+        />
+
+    <TextView android:layout_width="0dp"
+              android:layout_height="0dp"
+              android:background="#44ff0000"
+              android:gravity="center"
+              android:text="9"
+              app:layout_metro_height="160/1280"
+              app:layout_metro_width="380/768"
+        />
+
+    <TextView android:layout_width="0dp"
+              android:layout_height="0dp"
+              android:background="#44ff0000"
+              android:gravity="center"
+              android:text="10"
+              app:layout_metro_height="104/1280"
+              app:layout_metro_width="248/768"
+        />
+
+
+</com.zhy.view.MetroLayout>
